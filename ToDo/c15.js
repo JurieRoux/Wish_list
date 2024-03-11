@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", function () {
         // Switch statement for day of the week
         switch (dayOfWeek) {
             case 0:
-                youShould = "Make a list of things you like to do.";
+                youShould = "Do some planning for the week ahead";
                 break;
             case 1:
-                youShould = "Gotta do what ya gotta do!";
+                youShould = "New week, new opportunities await!";
                 break;
             case 2:
                 youShould = "Take time to smell the roses!";
